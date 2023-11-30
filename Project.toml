@@ -3,6 +3,9 @@ uuid = "b21cbada-ede4-487e-926d-2afbf2ac97b4"
 authors = ["jjgomezcadenas <jjgomezcadenas@gmail.com> and contributors"]
 version = "1.0.0-DEV"
 
+[deps]
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
+
 [compat]
 julia = "1"
 
